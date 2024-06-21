@@ -1,0 +1,11 @@
+B:\Downloads\BoostDraftCodingAssignmentCSharp\SimpleXMLValidatorLibrary\bin\Debug\net7.0\SimpleXmlValidatorLibrary.deps.json
+B:\Downloads\BoostDraftCodingAssignmentCSharp\SimpleXMLValidatorLibrary\bin\Debug\net7.0\SimpleXmlValidatorLibrary.dll
+B:\Downloads\BoostDraftCodingAssignmentCSharp\SimpleXMLValidatorLibrary\bin\Debug\net7.0\SimpleXmlValidatorLibrary.pdb
+B:\Downloads\BoostDraftCodingAssignmentCSharp\SimpleXMLValidatorLibrary\obj\Debug\net7.0\SimpleXmlValidatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+B:\Downloads\BoostDraftCodingAssignmentCSharp\SimpleXMLValidatorLibrary\obj\Debug\net7.0\SimpleXmlValidatorLibrary.AssemblyInfoInputs.cache
+B:\Downloads\BoostDraftCodingAssignmentCSharp\SimpleXMLValidatorLibrary\obj\Debug\net7.0\SimpleXmlValidatorLibrary.AssemblyInfo.cs
+B:\Downloads\BoostDraftCodingAssignmentCSharp\SimpleXMLValidatorLibrary\obj\Debug\net7.0\SimpleXmlValidatorLibrary.csproj.CoreCompileInputs.cache
+B:\Downloads\BoostDraftCodingAssignmentCSharp\SimpleXMLValidatorLibrary\obj\Debug\net7.0\SimpleXmlValidatorLibrary.dll
+B:\Downloads\BoostDraftCodingAssignmentCSharp\SimpleXMLValidatorLibrary\obj\Debug\net7.0\refint\SimpleXmlValidatorLibrary.dll
+B:\Downloads\BoostDraftCodingAssignmentCSharp\SimpleXMLValidatorLibrary\obj\Debug\net7.0\SimpleXmlValidatorLibrary.pdb
+B:\Downloads\BoostDraftCodingAssignmentCSharp\SimpleXMLValidatorLibrary\obj\Debug\net7.0\ref\SimpleXmlValidatorLibrary.dll

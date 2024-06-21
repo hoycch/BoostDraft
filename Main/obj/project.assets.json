@@ -1,0 +1,100 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "SimpleXmlValidatorLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/SimpleXmlValidatorLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SimpleXmlValidatorLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleXmlValidatorLibrary/1.0.0": {
+      "type": "project",
+      "path": "../SimpleXMLValidatorLibrary/SimpleXmlValidatorLibrary.csproj",
+      "msbuildProject": "../SimpleXMLValidatorLibrary/SimpleXmlValidatorLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "SimpleXmlValidatorLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\trio\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "B:\\Downloads\\BoostDraftCodingAssignmentCSharp\\Main\\Main.csproj",
+      "projectName": "Main",
+      "projectPath": "B:\\Downloads\\BoostDraftCodingAssignmentCSharp\\Main\\Main.csproj",
+      "packagesPath": "C:\\Users\\trio\\.nuget\\packages\\",
+      "outputPath": "B:\\Downloads\\BoostDraftCodingAssignmentCSharp\\Main\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\trio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "B:\\Downloads\\BoostDraftCodingAssignmentCSharp\\SimpleXMLValidatorLibrary\\SimpleXmlValidatorLibrary.csproj": {
+              "projectPath": "B:\\Downloads\\BoostDraftCodingAssignmentCSharp\\SimpleXMLValidatorLibrary\\SimpleXmlValidatorLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
